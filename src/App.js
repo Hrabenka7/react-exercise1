@@ -16,7 +16,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <div class="div-1">
+        <div className="div-1">
           <p className="alert alert-primary">React Exercise [Udemy]</p>
           <h5>Instructions:</h5>
           <ul>
