@@ -17,9 +17,9 @@ class App extends Component {
     return (
       <div>
         <div className="div-1">
-          <p className="alert alert-primary">React Exercise [Udemy]</p>
+          <p className="alert alert-primary">React Exercise 1 [Udemy]</p>
           <h5>Instructions:</h5>
-          <ul>
+          <ol>
             <li>Create TWO new components: UserInput and UserOutput</li>
             <li>UserInput should hold an input element, UserOutput two paragraphs</li>
             <li>Output multiple UserOutput components in the App component (any paragraph texts of your choice)</li>
@@ -30,7 +30,7 @@ class App extends Component {
             <li>Ensure that the new input entered by the user overwrites the old username passed to UserOutput</li>
             <li>Add two-way-binding to your input (in UserInput) to also display the starting username</li>
             <li>Add styling of your choice to your components/ elements in the components.</li>
-          </ul>
+          </ol>
           <hr/><hr/>
         </div>
         <div>
